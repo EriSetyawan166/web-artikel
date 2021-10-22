@@ -307,7 +307,7 @@ footer ul li a :hover {
     opacity: 1;
 }
 
-@media (max-width: 341px) {
+@media (max-width: 768px) {
     .news {
         position: fixed;
     }
