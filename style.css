@@ -315,4 +315,8 @@ footer ul li a :hover {
     footer {
         position: fixed;
     }
+
+    main {
+        z-index: -9999;
+    }
 }
